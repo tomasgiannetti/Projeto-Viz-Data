@@ -18,8 +18,5 @@ link: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecas
 
 # Conclusion
 
- By analyzing the data and graphs, it becomes clear that the weekly holidays impact significantly in both store groups, high performance and medium performance. This indicates that low performance stores has a deficiency in acquiring clients, it can possibly either be a marketing deficiency or a problem related to the stores location.
+ By analyzing the data and graphs, it becomes clear that the weekly holidays impact significantly in both store groups, high performance and medium performance. This indicates that low performance stores has a deficiency in acquiring clients, it can possibly either be a marketing deficiency or a problem related to the stores location. 
  It can also be seen that type C stores were not the most rentable types, as they are concentrated in the low performance group. It can not be seen if there is a relationship between temperature and revenue, in case there is, it is not a relevante variable. 
-
-
-
